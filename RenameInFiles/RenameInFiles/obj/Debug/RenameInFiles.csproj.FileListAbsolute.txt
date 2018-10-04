@@ -1,0 +1,10 @@
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\bin\Debug\RenameInFiles.exe.config
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\bin\Debug\RenameInFiles.exe
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\bin\Debug\RenameInFiles.pdb
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.csprojResolveAssemblyReference.cache
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.Form1.resources
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.Properties.Resources.resources
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.csproj.GenerateResource.Cache
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.csproj.CoreCompileInputs.cache
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.exe
+C:\All files for work\Work in progress\Coding Projects\RenameInFiles\RenameInFiles\RenameInFiles\obj\Debug\RenameInFiles.pdb
